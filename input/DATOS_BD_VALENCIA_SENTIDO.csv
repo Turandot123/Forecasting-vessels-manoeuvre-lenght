@@ -1,0 +1,7 @@
+﻿SentidoId,Nombre,Codigo,EsManiobra,NombreIngles,FactorManiobra,AplicaDescuento
+1,Entrada,E,0,NULL,0.00,0
+2,Movimiento interior,M,0,NULL,0.00,0
+3,Salida,S,0,NULL,0.00,0
+4,Fondeo,F,0,NULL,0.00,0
+7,Salida Fondeo,C,0,NULL,0.00,0
+9,Deriva,K,0,NULL,0.00,0

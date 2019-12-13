@@ -1,0 +1,4 @@
+﻿SentidoId,Nombre,Codigo,EsManiobra,NombreIngles,FactorManiobra,AplicaDescuento
+1,Entrada,E,0,Arrival,0.00,0
+2,Movimiento interior,M,0,Inner Shifting,0.00,0
+3,Salida,S,0,Departure,0.00,0
